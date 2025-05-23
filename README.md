@@ -14,12 +14,8 @@ This repository contains **topic-wise PDF notes** based on real learning session
 - [ ] Decision Trees
 - [ ] Random Forest
 - [ ] SVM (Support Vector Machines)
-- [ ] K-Means Clustering
-- [ ] Neural Networks
-- [ ] Deep Learning Basics
-- [ ] CNNs & RNNs
-- [ ] NLP (Natural Language Processing)
-- [ ] Reinforcement Learning
+- [ ] Clustering
+
 - [ ] and more...
 
 > 🔁 New topics will be added **frequently** — stay tuned!
@@ -47,8 +43,8 @@ This repository contains **topic-wise PDF notes** based on real learning session
 ## 🗣️ Stay Connected
 
 Feel free to connect or suggest topics you'd like to see:
-- 📧 Email: [your-email@example.com]
-- 🌐 LinkedIn: [your-profile-link]
+- 📧 Email: rajendrapandey.95@live.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/rajendra-k-pandey/
 - 📢 Suggestions & Feedback: Open an issue
 
 ---
